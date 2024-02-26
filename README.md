@@ -4,13 +4,15 @@ Welcome! This repo is part of the Cross-platform Election Advertising Transparen
 
 This repo is a part of the Data Collection step.
 
+![A picture of the repo pipeline with this repo highlighted](Creative_Pipelines.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
   - [Background](#background)
 - [Objective](#objective)
 - [Data](#data)
-- [Scripts](#Scripts)
+- [Scripts](#scripts)
 
 ## Introduction
 
@@ -28,11 +30,11 @@ Thus, the full information about the funders of an ad is contained in the combin
 Each of our repos belongs to one or more of the following categories:
 
 - Data Collection
-- Data Storage & Processing
-- Preliminary Data Classification
-- Final Data Classification
+- Data Processing
+- Data Classification
+- Compiled Final Data
 
-This repo is part of the Data Collection section.
+This repo is part of the Data Collection step.
 
 ## Data
 
